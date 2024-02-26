@@ -5,7 +5,7 @@ DISCLAIMER: THIS PAGE WAS MADE AS A PERSONAL EDUCATIONAL PROJECT. This is NOT th
 ![image](https://img.shields.io/badge/tailwind-paytm-blue)
 
 
-## Paytm website clone using tailwind CSS  [live Link](https://shopifyclone-tailwin.netlify.app/)
+## Paytm website clone using tailwind CSS  [live Link](https://manipaytmclone.netlify.app/)
 
 **Name:**   MANISH KUMAR
 
