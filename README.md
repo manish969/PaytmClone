@@ -12,9 +12,9 @@ DISCLAIMER: THIS PAGE WAS MADE AS A PERSONAL EDUCATIONAL PROJECT. This is NOT th
 
 
 
-![image](https://github.com/Krishna12345825/paytm-clone-tailwind/blob/main/images/img.png)
-![image](https://github.com/Krishna12345825/paytm-clone-tailwind/blob/main/images/img2.png)
-![image](https://github.com/Krishna12345825/paytm-clone-tailwind/blob/main/images/img3.png)
-![image](https://github.com/Krishna12345825/paytm-clone-tailwind/blob/main/images/img4.png)
-![image](https://github.com/Krishna12345825/paytm-clone-tailwind/blob/main/images/img5.png)
-![image](https://github.com/Krishna12345825/paytm-clone-tailwind/blob/main/images/img6.png)
+![image](https://github.com/manish969/PaytmClone/blob/master/images/img1.png)
+![image](https://github.com/manish969/PaytmClone/blob/master/images/img2.png)
+![image](https://github.com/manish969/PaytmClone/blob/master/images/img3.png)
+![image](https://github.com/manish969/PaytmClone/blob/master/images/img4.png)
+![image](https://github.com/manish969/PaytmClone/blob/master/images/img5.png)
+![image](https://github.com/manish969/PaytmClone/blob/master/images/img6.png)
